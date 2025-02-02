@@ -1,6 +1,6 @@
   👋 Hi, I’m Joshua
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning React.Js
+- 👀 I’m interested in full stack mobile and web application development
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on team projects
 - 📫 you can reach me via jkweknow@gmail.com
 
